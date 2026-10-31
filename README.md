@@ -1,9 +1,11 @@
 <h1 align="center">Get Directions for Zoho CRM</h1>
 <p align="center"><strong>From a CRM record to the next stop.</strong><br>A compact CRM companion that resolves a record's destination and offers Google Maps, Apple Maps and OpenStreetMap direction links.</p>
-<p align="center">Commercial product showcase · Licensing and installation by arrangement</p>
+<p align="center">Tested &amp; In Development / Pre-Release · Development showcase and fictional-data tours</p>
+
+> **Tested & In Development / Pre-Release.** Testing covers documented development checks only. Production readiness and customer-specific acceptance remain pending.
 
 > [!IMPORTANT]
-> **Showcase only.** This public repository contains product information and fictional demonstration media. It provides no software source, installable packages, free beta downloads or software license. Commercial availability and deployment scope are agreed privately. Product validation and the limitations below still apply.
+> **Showcase only.** This public repository contains product information and fictional demonstration media. It provides no software source, installable packages, free beta downloads or software license. Release availability remains pending; any future deployment scope will be agreed privately. Product validation and the limitations below still apply.
 
 [Discuss a commercial installation](https://github.com/RawPowered/Zoho-Get-Directions/issues/new?template=commercial-inquiry.yml) · [Deployment model](DEPLOYMENT.md) · [Commercial terms overview](COMMERCIAL.md)
 
@@ -70,7 +72,7 @@ Schema, access profiles, workflows and service connections are reviewed for the 
 - Missing address formulas or multi-select county relationships are manual schema steps.
 - This widget opens navigation links; it does not provide a routing engine or guarantee travel times.
 
-This is a commercial product under validation, not a free beta offer. Account-specific acceptance is required before production activation. Credentials and customer data are configured privately in the customer environment.
+Status: **Tested & In Development / Pre-Release**. Account-specific acceptance is required before production activation. Credentials and customer data are configured privately in the customer environment.
 
 ## Commercial availability
 
